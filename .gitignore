@@ -1,3 +1,15 @@
-/build/
+# ===== Build artifacts =====
 /target/
-target/
+/build/
+
+# ===== IDE (Eclipse) =====
+.classpath
+.project
+.settings/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
