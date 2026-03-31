@@ -17,7 +17,7 @@ import dto.coffee.CoffeeDto;
 import pack.coffee.form.CoffeeForm;
 
 /**
- * コーヒー情報コントローラークラス
+ * コーヒー情報コントローラークラスです
  * 説明：コーヒー情報を操作するクラス
  */
 @Controller
