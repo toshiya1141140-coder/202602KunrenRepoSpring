@@ -89,7 +89,7 @@ WebContent/
 1. このリポジトリをクローン
 
 ```
-git clone <https://github.com/toshiya1141140-coder/202602KunrenRepoSpring.git>
+git clone https://github.com/toshiya1141140-coder/202602KunrenRepoSpring.git
 ```
 
 2. Eclipseにインポート
